@@ -1,5 +1,5 @@
 {
-  "name": "hexgird-game",
+  "name": "hexgrid-game",
   "version": "0.0.1",
   "description": "A library for making Hexagonal Grids Game",
   "main": "src/index.js",
@@ -12,8 +12,16 @@
     "game",
     "phaser"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killalau/hexgrid-game.git"
+  },
+  "author": "Franky Lau <killalau1988@hotmail.com>",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killalau/hexgrid-game/issues"
+  },
+  "homepage": "https://github.com/killalau/hexgrid-game#readme",
   "devDependencies": {
     "babel": "^5.8.23",
     "chai": "^3.3.0",
